@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/sunnee18sun/PARTY-PrivacyPolicy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sunnee18sun/PARTY-PrivacyPolicy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+非常歡迎您使用PARTY，為了讓您能夠安心使用PARTY的各項服務與資訊，特此向您說明PARTY的隱私權保護政策，以保障您的權益，請您詳閱下列內容：
+一、隱私權保護政策的適用範圍
+隱私權保護政策內容，包括PARTY如何處理在您使用網站服務時收集到的個人識別資料。隱私權保護政策不適用於PARTY以外的相關連結網站，也不適用於非PARTY所委託或參與管理的人員。
+二、個人資料的蒐集、處理及利用方式
+為了在本APP上提供您最佳的互動性服務，可能會請您提供相關個人的資料，其範圍如下：
+PARTY在您一般及使用Facebook註冊時，會需要收集您所提供的姓名，使用期間，也會需要您提供您的定位，已得到最佳的適地性服務，這些資料內部應用，決不對外公佈。
+除非取得您的同意或其他法令之特別規定，PARTY絕不會將您的個人資料揭露於第三人或使用於蒐集目的以外之其他用途。
+三、資料之保護
+本APP主機設置於Firebase，採用嚴格的保護措施，只由經過授權的人員才能接觸您的個人資料，相關處理人員皆簽有保密合約，如有違反保密義者，將會受到相關的法律處分。
+如因業務需要有必要委託本部相關單位提供服務時，本APP亦會嚴格要求其遵守保密義務，並且採取必要檢查程序以確定其將確實遵守。
+四、網站對外的相關連結
+PARTY的網頁提供其他網站的網路連結，您也可經由PARTY所提供的連結，點選進入其他網站。但該連結網站不適用PARTY的隱私權保護政策，您必須參考該連結網站中的隱私權保護政策。
+五、與第三人共用個人資料之政策
+PARTY絕不會提供、交換、出租或出售任何您的個人資料給其他個人、團體、私人企業或公務機關，但有法律依據或合約義務者，不在此限。
+前項但書之情形包括不限於：
+經由您書面同意。
+法律明文規定。
+為免除您生命、身體、自由或財產上之危險。
+與公務機關或學術研究機構合作，基於公共利益為統計或學術研究而有必要，且資料經過提供者處理或蒐集著依其揭露方式無從識別特定之當事人。
+當您在網站的行為，違反服務條款或可能損害或妨礙網站與其他使用者權益或導致任何人遭受損害時，經網站管理單位研析揭露您的個人資料是為了辨識、聯絡或採取法律行動所必要者。
+有利於您的權益。
+PARTY委託廠商協助蒐集、處理或利用您的個人資料時，將對委外廠商或個人善盡監督管理之責。
+六、Cookie之使用
+不會取用您的Cookie。
+七、隱私權保護政策之修正
+PARTY隱私權保護政策將因應需求隨時進行修正，修正後的條款將刊登於網站上。
